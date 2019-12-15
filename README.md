@@ -2,10 +2,10 @@
 
 A simple digit classifier trained in **PyTorch** using the MNIST database. This classifier is built on several models.
 
-1. [Softmax Classifier](https://github.com/nirajmahajan/Digit-Recognition/models/softmax) : Accuracy of 92.47%
-2. [1-Hidden Layer Neural Network](https://github.com/nirajmahajan/Digit-Recognition/models/NN) : Accuracy of 95.77%
-3. [Deep Neural Network](https://github.com/nirajmahajan/Digit-Recognition/models/DNN) : Accuracy of 96.54%
-4. [Convolutional Neural Network](https://github.com/nirajmahajan/Digit-Recognition/models/CNN) : Accuracy of 98.38% 
+1. [Softmax Classifier](https://github.com/nirajmahajan/Digit-Recognition/tree/master/models/Softmax) : Accuracy of 92.47%
+2. [1-Hidden Layer Neural Network](https://github.com/nirajmahajan/Digit-Recognition/tree/master/models/NN) : Accuracy of 95.77%
+3. [Deep Neural Network](https://github.com/nirajmahajan/Digit-Recognition/tree/master/models/DNN) : Accuracy of 96.54%
+4. [Convolutional Neural Network](https://github.com/nirajmahajan/Digit-Recognition/tree/master/models/CNN) : Accuracy of 98.38% 
 
 ## Code Structure:
 
