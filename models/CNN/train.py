@@ -4,10 +4,10 @@ parser = argparse.ArgumentParser(description='Image Detection')
 parser.add_argument('-use_trained_model', action = 'store_true')
 
 # Create and print the training dataset
-train_dataset = dsets.MNIST(root='../utils/data', train=True, download=True, transform=composed)
+train_dataset = dsets.MNIST(root='../../utils/data', train=True, download=True, transform=composed)
 # print("Downloaded the training dataset:\n ", train_dataset)
 # Create and print the validating dataset
-validation_dataset = dsets.MNIST(root='../utils/data', train=False, download=True, transform=composed)
+validation_dataset = dsets.MNIST(root='../../utils/data', train=False, download=True, transform=composed)
 # print("Downloaded the validating dataset:\n ", validation_dataset)
 
 # Create Dataloader objects
