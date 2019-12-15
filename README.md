@@ -1,6 +1,6 @@
 # Digit Classifier
 
-A simple digit classifier trained in **PyTorch** using the MNIST database. This classifier is built on several models.
+A simple digit classifier trained in **PyTorch** using the MNIST database. This classifier is built using several models.
 
 1. [Softmax Classifier](https://github.com/nirajmahajan/Digit-Recognition/tree/master/models/Softmax) : Accuracy of 92.47%
 2. [1-Hidden Layer Neural Network](https://github.com/nirajmahajan/Digit-Recognition/tree/master/models/NN) : Accuracy of 95.77%
