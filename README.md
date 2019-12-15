@@ -16,7 +16,7 @@ The code structure for all the models is quite similar. Each model has the follo
 - **predict.py** : Used for predicting the digit in a given image
 - **model/** : Has a pre-trained model
 
-Apart from this, the MNIST data and a few sample images are located in the [Utils](https://github.com/nirajmahajan/Digit-Recognition/utils) folder.
+Apart from this, the MNIST data and a few sample images are located in the [Utils](https://github.com/nirajmahajan/Digit-Recognition/tree/master/utils) folder.
 
 ## Usage of Code:
 
